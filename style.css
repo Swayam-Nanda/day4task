@@ -1,0 +1,9 @@
+.ttbody{
+    background-color: orange;
+}
+.homebody{
+    background-image: url(bg.jpg);
+}
+h1{
+    text-align: center;
+}
